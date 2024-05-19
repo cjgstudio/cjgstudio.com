@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "cjgstudio.com",
-  "Id": "ada0ea4b-9dfe-47a6-b67e-9f4020fcbb8c"
-}
